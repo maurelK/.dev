@@ -42,9 +42,10 @@
         /* Header and Navigation */
         .big_header
          {
-            position: fixed;
+            position: sticky;
             top: 0;
             left: 0;
+            z-index: 1000;
             width: 100%;
             padding: 1rem 5%;
             background: rgba(10, 10, 10, 0.95);
