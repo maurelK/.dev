@@ -1,5 +1,5 @@
 function copyEmail() {
-            navigator.clipboard.writeText('jose.maurel@epitech.eu').then(function() {
+            navigator.clipboard.writeText('maurel.kouassi@epitech.eu').then(function() {
                 alert('Email copied to clipboard!');
             });
         }
